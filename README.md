@@ -1,4 +1,5 @@
 Math-to-statistics-problem
+
 This is a statistic solution for a mathematical problem.
 
 Draw a triangle, draw a perpendicular line for each side, the intersection point is X, suppose that the angles are not known, what is the probability of X to land inside, outsidem, and in the perimeter of the triangle?
